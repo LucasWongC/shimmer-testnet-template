@@ -1,0 +1,8 @@
+{
+  "goerli": {
+    "Token": {
+      "address": "0xe6343B051015408a66ecaB4C3481C10C15dd494A",
+      "startBlock": 8912965
+    }
+  }
+}
